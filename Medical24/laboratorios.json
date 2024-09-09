@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "nombre": "Biosano",
+        "direccion": "mmmmmmmmmmmmm",
+        "telefono": "55555555555"
+    },
+    {
+        "id": 2,
+        "nombre": "Maver",
+        "direccion": "pppppppppp",
+        "telefono": "9999999999"
+    }
+]

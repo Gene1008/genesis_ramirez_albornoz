@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "nombre": "Amoxicilina 500mg",
+        "laboratorio": "Biosano",
+        "precio": 10990.0
+    },
+    {
+        "id": 2,
+        "nombre": "Mulcatel",
+        "laboratorio": "Maver",
+        "precio": 15990.0
+    }
+]
